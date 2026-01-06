@@ -202,23 +202,11 @@ HeartDisease/
 │      ├── result.html
 │
 
-***8. How to Run the Project***
-1️⃣ Install dependencies
-pip install -r requirements.txt
 
-2️⃣ Run Flask app
-python app.py
 
-3️⃣ **Open in browser**
 http://127.0.0.1:5000
 
 
- ***9. Features***
 
-✔ Uses multiple ML models
-✔ Clean HTML interface
-✔ Displays all model results at once
-✔ Easy to deploy
-✔ Lightweight and fast
 
 
